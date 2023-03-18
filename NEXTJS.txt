@@ -1,0 +1,9 @@
+1. installing nextjs 
+    npx create-next-app@latest --ts
+    √ What is your project named? ... app-name
+    √ Would you like to use ESLint with this project? ... No 
+    √ Would you like to use `src/` directory with this project? ... No
+    √ Would you like to use experimental `app/` directory with this project? ... No
+    √ What import alias would you like configured? ... @/* (enter)
+    READY
+    npm run dev
